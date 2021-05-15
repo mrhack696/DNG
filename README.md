@@ -60,7 +60,7 @@ Please dont forget follow me on instagram and youtube
 
 Follow me in Social Media's
 
-[instagram](https://instagram/gamer13alone)
+[instagram](https://www.instagram.com//gamer13alone)
 
 [GitHub](https://github.com/gamer13alone/)
 
