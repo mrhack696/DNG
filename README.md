@@ -46,6 +46,9 @@ First of all, check your internet access, then enter the software and enter the 
 G.L Aria – [YouTube](https://glaria.ir) – [instagram](https://instagram/gamer13alone) - [GitHub](https://github.com/gamer13alone/)
 
 Please dont forget follow me on instagram and youtube
+## AD
+![](ad.a-ads.com/1636821?size=468x60)
+
 
 ## Contributing
 
