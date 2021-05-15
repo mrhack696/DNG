@@ -2,6 +2,7 @@ ScreenShot:
 ![](https://github.com/gamer13alone/DNG/blob/main/files/screenshot.png)
 
 ## Installation
+![](https://github.com/gamer13alone/DNG/blob/c982918335cb0110b0d02c855a200798c31aa625/files/linux.png)
 
 Linux:
 ```sh
@@ -15,22 +16,20 @@ python3.8 -m pip install colored
 ```
 python3 dng_by_gl_aria.py
 ```
+![](https://github.com/gamer13alone/DNG/blob/c982918335cb0110b0d02c855a200798c31aa625/files/windows.png)
 
 Windows:
 ```sh
 first thing first you just need to download and extract DNG EXE Edition.zip
 ```
-![](https://github.com/gamer13alone/DNG/blob/804d0c2cb29fa851910b1a16ce959a458ec7bcfb/files/1.png)
 
 ```sh
 open the extracted folder
 ```
-![](https://github.com/gamer13alone/DNG/blob/804d0c2cb29fa851910b1a16ce959a458ec7bcfb/files/4.png)
 
 ```sh
 and in the last step run the DNG (Discord Nitro Generator)
 ```
-![](https://github.com/gamer13alone/DNG/blob/804d0c2cb29fa851910b1a16ce959a458ec7bcfb/files/5.png)
 
 ## Usage example
 
@@ -44,7 +43,7 @@ First of all, check your internet access, then enter the software and enter the 
 
 ## Meta
 
-G.L Aria – [YouTube](https://glaria.ir) – [instagram](https://instagram/gamer13alone) - [GITHUB](https://github.com/gamer13alone/)
+G.L Aria – [YouTube](https://glaria.ir) – [instagram](https://instagram/gamer13alone) - [GitHub](https://github.com/gamer13alone/)
 
 Please dont forget follow me on instagram and youtube
 
