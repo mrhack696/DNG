@@ -15,49 +15,38 @@ python3.8 -m pip install colored
 ```
 python3 dng_by_gl_aria.py
 ```
+
 Windows:
 ```sh
-you just need to download and extract DNG EXE Edition.zip
-adn after do that just open and run the DNG (Discord Nitro Generator)
+first thing first you just need to download and extract DNG EXE Edition.zip
 ```
+![](https://github.com/gamer13alone/DNG/blob/804d0c2cb29fa851910b1a16ce959a458ec7bcfb/files/1.png)
+
+```sh
+open the extracted folder
+```
+![](https://github.com/gamer13alone/DNG/blob/804d0c2cb29fa851910b1a16ce959a458ec7bcfb/files/4.png)
+
+```sh
+and in the last step run the DNG (Discord Nitro Generator)
+```
+![](https://github.com/gamer13alone/DNG/blob/804d0c2cb29fa851910b1a16ce959a458ec7bcfb/files/5.png)
 
 ## Usage example
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
+First of all, check your internet access, then enter the software and enter the number of nitros you want, then press enter and if you are sure to generate the nitros press enter agian and wait for it to find the valid nitro for you.
 
-_For more examples and usage, please refer to the [Wiki][wiki]._
-
-## Development setup
-
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
-
-```sh
-make install
-npm test
-```
 
 ## Release History
 
-* 0.2.1
-    * CHANGE: Update docs (module code remains unchanged)
-* 0.2.0
-    * CHANGE: Remove `setDefaultXYZ()`
-    * ADD: Add `init()`
-* 0.1.1
-    * FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
-* 0.1.0
-    * The first proper release
-    * CHANGE: Rename `foo()` to `bar()`
-* 0.0.1
-    * Work in progress
+* 1.0.0
+    * You Can Generate Discord Nitro Easily & Fast
 
 ## Meta
 
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
+G.L Aria – [YouTube](https://glaria.ir) – [instagram](https://instagram/gamer13alone) - [GITHUB](https://github.com/gamer13alone/)
 
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+Please dont forget follow me on instagram and youtube
 
 ## Contributing
 
