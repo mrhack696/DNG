@@ -3,7 +3,7 @@ ScreenShot:
 
 ## Installation
 
-Python Version:
+Linux:
 
 ```sh
 git clone https://github.com/logicguy1/The-all-in-one-discord-tool.git
