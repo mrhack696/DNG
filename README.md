@@ -3,10 +3,10 @@ ScreenShot:
 
 ## Installation
 
-Python:
+Python Version:
 
 ```sh
-pip install https://github.com/gamer13alone/DNG
+git clone https://github.com/logicguy1/The-all-in-one-discord-tool.git
 #after do that just u need to do it
 ```
 
