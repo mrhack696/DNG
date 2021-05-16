@@ -14,7 +14,7 @@ python3.8 -m pip install discord_webhook
 python3.8 -m pip install colored
 ```
 ```
-python3 dng_by_gl_aria.py
+python3 dng_python_edition.py
 ```
 ![](https://github.com/gamer13alone/DNG/blob/c982918335cb0110b0d02c855a200798c31aa625/files/windows.png)
 
